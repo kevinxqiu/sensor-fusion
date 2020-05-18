@@ -1,0 +1,25 @@
+1- 4 IR sensors are being used.
+	- 2 short range sensor
+	- 1 medium range sensor
+	- 1 long range sensor
+
+2- Distances between the aluminum sheet and each sensor in the setup:
+	- short range sensor -> 6 cm (both are north in images)
+	- medium range sensor -> 12 cm (north east in images)
+	- long range sensor -> 22 cm (south east in images)
+
+3- Thermocouple sensor positions
+	- A0 -> north west (col 1 in data)
+	- A1 -> south west (col 2 in data)
+	- A2 -> center (col 3 in data)
+	- A3 -> north east (col 4 in data)
+	- A4 -> south east (col 5 in data)
+
+2- The position of the block is captured captured at
+	- North east (image attached)
+	- North west (image attached)
+	- South east (image attached)
+	- South west (image attached)
+	- center (image attached)
+	- south (image attached)
+	- north (image attached)
